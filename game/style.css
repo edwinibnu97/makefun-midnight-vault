@@ -1,0 +1,5 @@
+html, body { margin: 0; padding: 0; background: #07090f; }
+body { min-height: 100vh; display: flex; align-items: center; justify-content: center; font-family: system-ui, sans-serif; }
+main { text-align: center; }
+canvas { display: block; background: #0d1220; border: 2px solid #2a3350; border-radius: 8px; max-width: 96vw; height: auto; }
+.help { color: #8b93a7; font-size: 13px; margin: 10px 0 0; }
